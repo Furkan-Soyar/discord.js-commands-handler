@@ -1,0 +1,32 @@
+{
+  "name": "discord.js-commands-handler",
+  "version": "3.0.0",
+  "description": "A package to sync your bot's slash commands and manage interactions",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Furkan-Soyar/discord.js-commands-handler.git"
+  },
+  "keywords": [
+    "discord",
+    "discord.js",
+    "discord.js command",
+    "discord.js command handler",
+    "command handler",
+    "command",
+    "handler",
+    "discord.js-command-manager",
+    "command-manager",
+    "command-managing",
+    "manager"
+  ],
+  "author": "furkan-soyar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Furkan-Soyar/discord.js-commands-handler/issues"
+  },
+  "homepage": "https://github.com/Furkan-Soyar/discord.js-commands-handler#readme"
+}
